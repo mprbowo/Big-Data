@@ -30,8 +30,8 @@
 
 3. LogAnalitics.py
 
-| Code             | Screenshoot                                                                |
-| ----------------- | ------------------------------------------------------------------ |
+| Code             |
+| ----------------- |
 | https://github.com/mprbowo/Big-Data/blob/main/Chapter3/LogAnalytics.py#L1-L27 |  |
 
 4. Pair RDD.py
@@ -42,8 +42,8 @@
 
 5. UnderStandingRDDs.py
 
-| Code             | Screenshoot                                                                |
-| ----------------- | ------------------------------------------------------------------ |
+| Code             |
+| ----------------- |
 | https://github.com/mprbowo/Big-Data/blob/main/Chapter3/UnderstandingRDDs.py#L1-L40 |  |
 
 4. Word Count.py
